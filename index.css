@@ -29,6 +29,13 @@ button {
     font-weight: bold;
     
 }
+#delete-btn{
+background-color: white;
+color: #5f9341;
+border-color: #5f9341;
+border: solid;
+border-width: 1.6px;
+}
 ul{
     margin-top: 30px;
     padding-left: 0;
