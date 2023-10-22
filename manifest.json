@@ -1,0 +1,9 @@
+{ //store and send data
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Leads tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icons8-bookmark-48.png"
+    }
+}
